@@ -1,6 +1,5 @@
 import java.util.*;
 
-
 class Shape
 {
         private static Scanner sc = new Scanner(System.in);
