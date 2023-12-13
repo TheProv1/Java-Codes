@@ -1,6 +1,6 @@
 import java.util.*;
 
-class fibo {
+class Fibo {
 
     public static void main(String args[])
     {
