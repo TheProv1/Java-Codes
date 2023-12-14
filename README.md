@@ -1,10 +1,8 @@
 # Java Codes
 
-This repository contains the code for some Java codes. 
+###Description
 
-## Difficulty
-
-The provided code snippets cover a wide range of **complexity** levels.
+Code repository containing codes for Java using Object Oriented Concepts.
 
 ## Author
-Aswin Krishna (TheProv1)
+Aswin Krishna ([@TheProv1](github.com/theprov1))
